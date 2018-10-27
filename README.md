@@ -35,7 +35,7 @@
 
 | Date | Event Details |
 | --- | --- |
-| **JAN** | [Social Drinks? :beer:](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **JAN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
 | **FEB** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
 | **MAR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
 | **APR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
