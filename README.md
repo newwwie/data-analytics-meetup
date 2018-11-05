@@ -35,17 +35,17 @@
 
 | Date | Event Details |
 | --- | --- |
-| **17 JAN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **21 FEB** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **21 MAR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **18 APR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **16 MAY** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **20 JUN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **18 JUL** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **15 AUG** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **19 SEP** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **17 OCT** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **21 NOV** | [End of Year Drinks? :santa:](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **17 JAN** | [data.JAN <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135022/) |
+| **21 FEB** | [data.FEB <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135046/) |
+| **21 MAR** | [data.MAR <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135054/) |
+| **18 APR** | [data.APR <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135061/) |
+| **16 MAY** | [data.MAY <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135084/) |
+| **20 JUN** | [data.JUN <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135092/) |
+| **18 JUL** | [data.JUL <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135102/) |
+| **15 AUG** | [data.AUG <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135106/) |
+| **19 SEP** | [data.SEP <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135116/) |
+| **17 OCT** | [data.OCT <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135122/) |
+| **21 NOV** | [data.NOV <- End of Year Drinks? :santa:](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
 | **19 DEC** | No event |
 
 ----
