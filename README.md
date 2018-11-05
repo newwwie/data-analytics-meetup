@@ -6,7 +6,7 @@
 
 </a>
 
-<p align="center">A meetup for all things Data and Analytics</p>
+<p align="center">A meetup for all things Data and Analytics. 3rd Thursday of the month!</p>
 
 <p align="center">| Data Science | Machine Learning | Business Intelligence | Research | Data Visualisation | DataOps |</p>
 
@@ -35,18 +35,18 @@
 
 | Date | Event Details |
 | --- | --- |
-| **JAN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **FEB** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **MAR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **APR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **MAY** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **JUN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **JUL** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **AUG** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **SEP** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **OCT** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **NOV** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
-| **DEC** | [End of Year Drinks? :santa:](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **17 JAN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **21 FEB** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **21 MAR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **18 APR** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **16 MAY** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **20 JUN** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **18 JUL** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **15 AUG** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **19 SEP** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **17 OCT** | [TBC](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **21 NOV** | [End of Year Drinks? :santa:](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **19 DEC** | No event |
 
 ----
 
