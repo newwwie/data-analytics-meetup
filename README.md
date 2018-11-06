@@ -13,6 +13,8 @@
 
 ----
 
+## Speakers
+
 <h1 align="center"> <a href="https://github.com/newwwie/data-analytics-meetup/issues/new"> Pitch a Talk Idea</a> :bust_in_silhouette::speech_balloon: </h1>
 
 <p align="center">No talk = no :pizza:</p>
@@ -20,18 +22,16 @@
 
 ----
 
-<table>
-	<tr> 
-		<td> <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/Newcastle-data-analytics-meetup/">Meetup</a></td>
-		<td> <a href="https://twitter.com/newcastledata">Twitter NewcastleData</a></td>
-		<td> <a href="https://www.facebook.com/groups/newcastledata/">Facebook</a> </td>
-	</tr>
-</table>
-
+## Social Channels
+<p align="center">
+ | <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/Newcastle-data-analytics-meetup/">Meetup</a> |
+		<a href="https://twitter.com/newcastledata">Twitter</a> |
+		<a href="https://www.facebook.com/groups/newcastledata/">Facebook</a> |
+</p>
 
 ----
 
-## 2019 Meetups
+## 2019 Schedule
 
 | Date | Event Details |
 | --- | --- |
