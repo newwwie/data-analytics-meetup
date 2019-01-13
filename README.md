@@ -1,6 +1,7 @@
 <a href="https://www.meetup.com/Newcastle-data-analytics-meetup/">
 <img 
-	src="data-analytics-banner.jpg" 
+     	width="1200px"
+	src="logo.svg" 
 	alt="Newcastle Data Analytics Meetup Logo" 
 />
 
@@ -35,7 +36,7 @@
 
 | Date | Event Details |
 | --- | --- |
-| **17 JAN** | [data.JAN <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135022/) |
+| **17 JAN** | [data.JAN <- (Intro to Data Vis, Josh Peak)](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135022/) |
 | **21 FEB** | [data.FEB <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135046/) |
 | **21 MAR** | [data.MAR <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135054/) |
 | **18 APR** | [data.APR <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135061/) |
