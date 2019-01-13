@@ -19,7 +19,7 @@
 
 <!-- <circle cx="300" cy="300" r="300" fill="#222" /> -->
 <!-- <rect x="0" y="108" width="600" height="400" fill="#fff" /> -->
-<rect x="0" y="0" width="1200" height="400" fill="#222" />
+<!-- <rect x="0" y="0" width="1200" height="400" fill="#222" /> -->
 
 <g id="logo" transform="translate(344 84)">
     <g id="signal" transform="translate(0 180) scale(1, -1.5)">
