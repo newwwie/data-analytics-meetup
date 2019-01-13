@@ -1,7 +1,7 @@
 <a href="https://www.meetup.com/Newcastle-data-analytics-meetup/">
 <img 
-     	width="1200px"
-	src="logo.svg" 
+	width="1200px"
+	src="banner.svg" 
 	alt="Newcastle Data Analytics Meetup Logo" 
 />
 

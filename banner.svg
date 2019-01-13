@@ -2,7 +2,7 @@
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   version="1.1" 
-  width="600px" height="600px"
+  width="1200px" height="400px"
 >
 
 <style>
@@ -17,13 +17,10 @@
     .logo-analytics { fill: #b078a0; }
 </style>
 
-<!-- Background tests -->
-<!-- Uncomment to ensure design works in circular crops and bounding box -->
-<!-- <circle cx="300" cy="300" r="300" fill="#222" /> -->
-<!-- <rect x="0" y="118" width="600" height="380" fill="#fff" /> -->
+<!-- background colour test -->
+<!-- <rect x="0" y="0" width="1200" height="400" fill="#222" /> -->
 
-
-<g id="logo" transform="translate(44 192)">
+<g id="logo" transform="translate(344 84)">
     <g id="signal" transform="translate(0 180) scale(1, -1.5)">
         <path 
             class="signal"
