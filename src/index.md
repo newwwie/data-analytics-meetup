@@ -1,7 +1,8 @@
 ---
 home: true
-description: A meetup for all things Data and Analytics.
 layout: Home
+heroImage: /images/logo-tight.svg
+description: A meetup for all things Data and Analytics.
 actionText: Meetup
 actionLink: https://www.meetup.com/Newcastle-data-analytics-meetup
 features:

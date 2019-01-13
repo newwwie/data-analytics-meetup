@@ -2,7 +2,7 @@
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink"
   version="1.1" 
-  width="600px" height="600px"
+  width="600px" height="380px"
 >
 
 <style>
@@ -24,7 +24,7 @@
 <!-- <rect x="0" y="0" width="600" height="600" fill="#222" /> -->
 
 
-<g id="logo" transform="translate(44 192)">
+<g id="logo" transform="translate(44 72)">
     <g id="signal" transform="translate(0 180) scale(1, -1.5)">
         <path 
             class="signal"
