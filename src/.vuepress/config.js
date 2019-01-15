@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Newcastle Data Analytics',
+  title: 'Newcastle Data Analytics Meetup',
   description: 'A meetup for all things Data and Analytics.',
   head: [
       ['link', { rel: 'icon', href: `/images/favicon.ico` }]
