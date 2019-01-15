@@ -7,13 +7,13 @@
 
 <style>
     .logo { 
-        font: bold 72pt sans-serif;
-        letter-spacing: -0.17em;
+        font: 72pt sans-serif;
+        letter-spacing: -0.16em;
     }
     .signal {stroke: #e2525b; stroke-width: 5; fill: none; stroke-linecap: round}
     .axes { stroke: #575757; stroke-width: 8; stroke-linecap: round;}
     .logo-newcastle { fill: #4f79a5; }
-    .logo-data { fill: #f28d38; }
+    .logo-data { fill: #f28d38; font-weight: 900;}
     .logo-analytics { fill: #b078a0; }
 </style>
 
