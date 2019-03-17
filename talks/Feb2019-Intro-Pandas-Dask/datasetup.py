@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 import urllib.request as req
+from glob import glob
+import tarfile
 
 
 WORKDIR = os.path.dirname(__file__)
@@ -45,6 +47,48 @@ def electr_consump():
 
 	return None
 
+def au_elec_dev():
+	urls ={ 
+		'AirConditioners':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/0973a476-eb0c-45e6-9a18-054f74307843/download/tmpxdamix_ac_2019_03_17.csv',
+		'Clothes-dryers':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/f734c56b-a255-4c4e-a3c1-e835c38b8774/download/tmpcf_j7j_cd_2019_03_17.csv',
+		'Dishwashers':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/cbe7057d-e132-4297-b8be-eecf8322d4e6/download/tmp9jiwbq_dw_2019_03_17.csv',
+		'Clothes-Washers':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/eb3b9d8e-f39d-47b7-9db0-309856176951/download/tmpxjwy19_cw_2019_03_17.csv',
+		'Fridges-and-Freezers':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/0eabca18-49bb-4a9e-8019-28d5d56501c4/download/tmp0sld1e_rf_2019_03_17.csv',
+		'Televisions':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/93a615e5-935e-4713-a4b0-379e3f6dedc9/download/tmplhf9bo_tv_2019_03_17.csv',
+		'Computer-monitors':'https://data.gov.au/data/dataset/559708e5-480e-4f94-8429-c49571e82761/resource/f1ea4c89-282c-4d64-b870-10a5ab039030/download/tmp2gwicy_mo_2019_03_17.csv',
+	}
+
+	names = []
+	for csv in urls.keys():
+		fname = os.path.join(DATADIR, 'Australian-Electrical-Appliances', csv + '.csv')
+		names.append(fname)
+		if os.path.exists(fname):
+			print(f'{os.path.basename(fname)} present')
+		else:
+			print(f'retrieving {csv}')
+			req.urlretrieve(urls[csv], fname)
+
+	return names
+
+def flights():
+    flights_raw = os.path.join(DATADIR, 'nycflights.tar.gz')
+    flightdir = os.path.join(DATADIR, 'nycflights')
+
+    if not os.path.exists(flights_raw):
+        print("- Downloading NYC Flights dataset... ", end='', flush=True)
+        url = "https://storage.googleapis.com/dask-tutorial-data/nycflights.tar.gz"
+        req.urlretrieve(url, flights_raw)
+        print("done", flush=True)
+
+    if not os.path.exists(flightdir):
+        print("- Extracting flight data... ", end='', flush=True)
+        tar_path = os.path.join(DATADIR, 'nycflights.tar.gz')
+        with tarfile.open(tar_path, mode='r:gz') as flights:
+            flights.extractall('data/')
+        print("done", flush=True)
+
+    print("** Finished! **")
+    return glob(os.path.join(flightdir, '*.csv'))
 
 if __name__ == '__main__':
 	electr_consump()
