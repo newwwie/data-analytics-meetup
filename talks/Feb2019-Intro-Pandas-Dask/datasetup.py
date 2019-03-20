@@ -90,5 +90,9 @@ def flights():
     print("** Finished! **")
     return glob(os.path.join(flightdir, '*.csv'))
 
+def nasa_file():
+    url = ''
+    return None
+
 if __name__ == '__main__':
 	electr_consump()
