@@ -1,2 +1,8 @@
 **/.DS_Store
 node_modules/
+
+# editors
+*.sublime*
+
+# unwanted folders
+.ipynb_checkpoints
