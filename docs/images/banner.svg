@@ -36,7 +36,7 @@
     
     <g id="logo-text"  transform="translate(30 36)">
         
-        <text x="0" y="30" class="logo logo-newcastle">NEWCASTLE</text>
+        <text x="0" y="30" class="logo logo-newcastle">HUNTER</text>
         <text x="0" y="112" class="logo logo-data">DATA</text>
         <text x="0" y="192" class="logo logo-analytics">ANALYTICS</text>
     </g>

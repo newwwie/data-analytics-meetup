@@ -4,7 +4,7 @@ layout: Home
 heroImage: images/logo-tight.svg
 description: A meetup for all things Data and Analytics.
 actionText: Meetup
-actionLink: https://www.meetup.com/Newcastle-data-analytics-meetup
+actionLink: https://www.meetup.com/hunter-data-analytics
 features:
 - title: Speakers
   details: Come hear about research, industry and hobbyist data projects

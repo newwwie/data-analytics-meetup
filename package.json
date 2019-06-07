@@ -1,7 +1,7 @@
 {
   "name": "data-analytics-meetup",
   "version": "1.0.0",
-  "description": "Newcastle Data Analytics Meetup Website",
+  "description": "Hunter Data Analytics Meetup Website",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/newwwie/data-analytics-meetup#readme",
   "devDependencies": {
-    "vuepress": "^0.14.8"
+    "vuepress": "^0.14.11"
   }
 }

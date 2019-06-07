@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Newcastle Data Analytics Meetup',
+  title: 'Hunter Data Analytics Meetup',
   description: 'A meetup for all things Data and Analytics.',
   head: [
       ['link', { rel: 'icon', href: `/images/favicon.ico` }]
@@ -8,9 +8,9 @@ module.exports = {
       nav: [
         { text: 'Home', link: '/' },
         { text: 'Give a Talk', link: 'https://github.com/newwwie/data-analytics-meetup' },
-        { text: 'Meetup', link: 'https://www.meetup.com/Newcastle-data-analytics-meetup/' },
-        { text: 'Twitter', link: 'https://twitter.com/NewcastleData' },
-        { text: 'Facebook', link: 'https://www.facebook.com/groups/newcastledata' },
+        { text: 'Meetup', link: 'https://www.meetup.com/hunter-data-analytics/' },
+        { text: 'Twitter', link: 'https://twitter.com/HunterAnalytics' },
+        { text: 'Facebook', link: 'https://www.facebook.com/hunteranalytics' },
         { text: 'Blog', link: '/blog/' },
       ]
   },
