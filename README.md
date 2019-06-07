@@ -1,8 +1,8 @@
-<a href="https://www.meetup.com/Newcastle-data-analytics-meetup/">
+<a href="https://www.meetup.com/hunter-data-analytics-meetup/">
 <img 
 	width="1200px"
 	src="src/.vuepress/public/images/banner.svg" 
-	alt="Newcastle Data Analytics Meetup Logo" 
+	alt="Hunter Data Analytics Meetup Logo" 
 />
 
 </a>
@@ -25,9 +25,9 @@
 
 ## Social Channels
 <p align="center">
- | <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/Newcastle-data-analytics-meetup/">Meetup</a> |
-		<a href="https://twitter.com/newcastledata">Twitter</a> |
-		<a href="https://www.facebook.com/groups/newcastledata/">Facebook</a> |
+ | <img src="https://pbs.twimg.com/profile_images/875701356849504256/x8t7RxeV_400x400.jpg" height="30px" valign="middle" /> <a href="https://www.meetup.com/hunter-data-analytics-meetup/">Meetup</a> |
+		<a href="https://twitter.com/hunteranalytics">Twitter</a> |
+		<a href="https://www.facebook.com/hunteranalytics/">Facebook</a> |
 </p>
 
 ----
@@ -36,17 +36,17 @@
 
 | Date | Event Details |
 | --- | --- |
-| **17 JAN** | [data.JAN <- (Intro to Data Vis, Josh Peak)](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135022/) |
-| **21 FEB** | [data.FEB <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135046/) |
-| **21 MAR** | [data.MAR <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135054/) |
-| **18 APR** | [data.APR <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135061/) |
-| **16 MAY** | [data.MAY <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135084/) |
-| **20 JUN** | [data.JUN <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135092/) |
-| **18 JUL** | [data.JUL <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135102/) |
-| **15 AUG** | [data.AUG <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135106/) |
-| **19 SEP** | [data.SEP <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135116/) |
-| **17 OCT** | [data.OCT <- TBC](https://www.meetup.com/Newcastle-Data-Analytics-Meetup/events/256135122/) |
-| **21 NOV** | [data.NOV <- End of Year Drinks? :santa:](https://www.meetup.com/Newcastle-data-analytics-meetup/events/) |
+| **17 JAN** | [data.JAN <- (Intro to Data Vis, Josh Peak)](https://www.meetup.com/Hunter-Data-Analytics/events/256135022/) |
+| **21 FEB** | [data.FEB<- (Join the Dots for Innovation: Big Data)](https://www.meetup.com/Hunter-Data-Analytics/events/256135046/) |
+| **21 MAR** | [data.MAR <- (Scale up data processing, Sergio Pintaldi)](https://www.meetup.com/Hunter-Data-Analytics/events/256135054/) |
+| **18 APR** | [data.APR <- (Why Google Analytics?, Andrew Stace)](https://www.meetup.com/Hunter-Data-Analytics/events/256135061/) |
+| **16 MAY** | [data.MAY <- Building an Analytics Department (Antoine Desmet)](https://www.meetup.com/Hunter-Data-Analytics/events/256135084/) |
+| **20 JUN** | [data.JUN <- (Flood Models to AI in Health, Andrew Goodwin)](https://www.meetup.com/Hunter-Data-Analytics/events/256135092/) |
+| **18 JUL** | [data.JUL <- TBC](https://www.meetup.com/Hunter-Data-Analytics/events/256135102/) |
+| **15 AUG** | [data.AUG <- TBC](https://www.meetup.com/Hunter-Data-Analytics/events/256135106/) |
+| **19 SEP** | [data.SEP <- TBC](https://www.meetup.com/Hunter-Data-Analytics/events/256135116/) |
+| **17 OCT** | [data.OCT <- TBC](https://www.meetup.com/Hunter-Data-Analytics/events/256135122/) |
+| **21 NOV** | [data.NOV <- End of Year Drinks? :santa:](https://www.meetup.com/Hunter-data-analytics/events/) |
 | **19 DEC** | No event |
 
 ----
