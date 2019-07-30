@@ -83,8 +83,8 @@
 | Sponsor |  |
 | --- | --- |
 | <img src="sponsors/komatsu.jpg" width="200px" /> | [Komatsu](https://mining.komatsu/) |
-| <img src="sponsors/asr.jpg" width="200px" /> | [ASR Recruitment](https://www.asr.com.au/) |
-| <img src="sponsors/uon.jpg" width="200px" /> | [University of Newcastle](https://www.newcastle.edu.au/) |
+| <img src="sponsors/asr.jpeg" width="200px" /> | [ASR Recruitment](https://www.asr.com.au/) |
+| <img src="sponsors/uon.jpeg" width="200px" /> | [University of Newcastle](https://www.newcastle.edu.au/) |
 | <img src="sponsors/wherethingshappen.jpeg" width="200px" /> | [Where Things Happen Studios](https://www.wherethingshappen.com.au/) |
 
 ----
